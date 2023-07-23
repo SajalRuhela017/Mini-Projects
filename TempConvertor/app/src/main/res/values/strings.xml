@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConvertor</string>
+    <string name="celsiusHint">Temperature in Celsius</string>
+    <string name="fahrenheitHint">Temperature in Fahrenheit</string>
+    <string name="convert">Convert</string>
+    <string name="error">No Conversion Found</string>
+</resources>
